@@ -1,0 +1,11 @@
+FPS = 30;
+HEIGHT = 450;
+WIDTH = 450;
+SPEED = 100.0;
+SIZE_WALL = 30;
+MAX = 15;
+TIME = 0;
+P1_X = 15;
+P1_Y = 25;
+P2_X = (WIDTH - 20);
+P2_Y = 25;
